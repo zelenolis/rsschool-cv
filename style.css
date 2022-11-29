@@ -1,0 +1,72 @@
+body {
+    background-color: lightgray;
+    padding: 30px;
+    font-family: Georgia, Serif;
+}
+div {
+    display: inline-block;
+    background-color: rgb(190, 191, 192);
+    margin: auto;
+}
+header {
+    text-align: center;
+    padding: 1em;
+}
+main {
+    float: left;
+    padding: 10px;
+    width: 55%;
+    text-align: justify;
+}
+aside {
+    float: left;
+    padding: 10px;
+    width: 35%;
+    text-align: left;
+}
+footer {
+    background-color: rgba(90, 30, 146, 0.205);
+    width: 100%;
+    margin-bottom: 20px;
+    float: left;
+}
+.scr {
+    border: 2px solid black;
+    border-radius: 5%;
+    width: 110px;
+    float: right;
+    margin-top: 10px;
+}
+.left {
+    text-align: left;
+}
+.unders {
+    font-size: 1.1em;
+    font-style: italic;
+    margin-top: -1em;
+}
+.code1 {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    padding-left: 10px;
+    border: 2px solid blueviolet;
+    padding: 10px;
+    max-width: 100px;
+}
+.other {
+    font-style: italic;
+    font-size: smaller;
+}
+.git {
+    padding-top: 3px;
+    float: right;
+    text-align: center;
+}
+.pic {
+    float: left;
+    width: 50px;
+}
+.date {
+    padding-top: 3px;
+    margin: auto;
+    text-align: center;
+}
